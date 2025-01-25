@@ -1,5 +1,5 @@
 ## Hi there 👋
-I’m Aboli Shankar Parate, a self-taught MERN stack developer with a passion for building intuitive and user-friendly web applications. 🚀
+I’m Aboli Parate, a self-taught MERN stack developer with a passion for building intuitive and user-friendly web applications. 🚀
 
 💻 Tech Stack:
 
