@@ -1,4 +1,14 @@
 ## Hi there 👋
+I’m Aboli Shankar Parate, a self-taught MERN stack developer with a passion for building intuitive and user-friendly web applications. 🚀
+
+💻 Tech Stack:
+
+Crafting dynamic UIs with HTML, CSS, and JavaScript.
+Developing robust backends using Node.js and Express.js.
+Managing data seamlessly with MongoDB.
+Creating stunning interfaces with React.js and Figma.
+
+⚡ I love learning, problem-solving, and creating projects that make an impact. Always exploring new tools and technologies to level up my skills!
 
 ### 🛠️ My Tech Toolbox  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
